@@ -1,2 +1,2 @@
 # learning_python
-My Python learning journey, focusing on ML in maternal care and obstetrics
+Repository documenting my Python learning journey, focusing on machine learning applications in maternal-fetal medicine care and obstetrics
