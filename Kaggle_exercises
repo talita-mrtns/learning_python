@@ -3,3 +3,11 @@ def cost_of_project (engraving, solid_gold):
   return cost
 project_one = cost_of_project ("Denver+Charlie", True)
 print(project_one)
+
+def classification_nugent(score)
+  if =< 3:
+    return = "Normal"
+  elif =<4:
+    return = "Intermediate"
+  else:
+    return = "Bacterial vaginose"
